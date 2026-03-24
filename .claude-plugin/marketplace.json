@@ -1,0 +1,46 @@
+{
+  "name": "true-and-useful",
+  "owner": {
+    "name": "True and Useful",
+    "email": "hello@trueanduseful.ai"
+  },
+  "metadata": {
+    "description": "Audio hosting and markdown publishing skills for AI agents"
+  },
+  "plugins": [
+    {
+      "name": "airloom",
+      "source": {
+        "source": "github",
+        "repo": "true-and-useful/airloom-skill"
+      },
+      "description": "Upload audio and get a shareable URL instantly. Supports podcasts with RSS feeds.",
+      "version": "1.0.0",
+      "author": {
+        "name": "True and Useful"
+      },
+      "homepage": "https://airloom.fm",
+      "repository": "https://github.com/true-and-useful/airloom-skill",
+      "license": "MIT",
+      "keywords": ["audio", "hosting", "podcast", "tts", "upload", "mp3"],
+      "category": "media"
+    },
+    {
+      "name": "leafmill",
+      "source": {
+        "source": "github",
+        "repo": "true-and-useful/leafmill-skill"
+      },
+      "description": "Publish markdown and get a shareable URL with beautifully rendered articles. Supports channels with RSS feeds.",
+      "version": "1.0.0",
+      "author": {
+        "name": "True and Useful"
+      },
+      "homepage": "https://leafmill.net",
+      "repository": "https://github.com/true-and-useful/leafmill-skill",
+      "license": "MIT",
+      "keywords": ["markdown", "publishing", "articles", "writing", "hosting"],
+      "category": "media"
+    }
+  ]
+}
