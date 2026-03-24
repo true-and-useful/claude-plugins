@@ -12,7 +12,7 @@ Audio hosting and markdown publishing skills for AI agents.
 
 ### airloom
 
-Upload audio and get a shareable URL instantly. Supports podcasts with RSS feeds.
+Publish audio or podcasts in one command — your agent generates speech, uploads it, and hands back a shareable link.
 
 ```
 /plugin install airloom@true-and-useful
@@ -22,7 +22,7 @@ https://airloom.fm
 
 ### leafmill
 
-Publish markdown and get a shareable URL with beautifully rendered articles. Supports channels with RSS feeds.
+Turn any markdown into a beautifully typeset article with one command — instant publishing, no account needed.
 
 ```
 /plugin install leafmill@true-and-useful
